@@ -1,0 +1,3 @@
+﻿  EMPLOYEE_MANAGEMENT.cpp
+D:\c++\CPP_Projects\HMS\HMS\EMPLOYEE_MANAGEMENT.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HMS.vcxproj -> D:\c++\CPP_Projects\HMS\x64\Debug\HMS.exe

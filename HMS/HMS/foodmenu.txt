@@ -1,0 +1,10 @@
+burger,250
+pizza,1000
+shawarma,200
+roti,100
+ice cream,150
+milk shake,200
+juice,150
+salad,70
+cold drink,100
+water bottel,50

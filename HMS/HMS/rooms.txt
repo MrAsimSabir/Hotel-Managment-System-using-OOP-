@@ -1,0 +1,10 @@
+R1,10000,Available
+R2,10000,Booked
+R3,12500,Booked
+R4,12200,Available
+R5,12200,Not Available
+R6,15000,Available
+R7,18000,Available
+R8,15000,Available
+R9,15000,Available
+R10,15000,Available
